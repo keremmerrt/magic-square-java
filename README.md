@@ -30,3 +30,7 @@ Output:
 - loops and conditions  
 - 2D arrays  
 - thinking about algorithms  
+
+## References
+
+The algorithm is based on the classical Siamese method for constructing odd-order magic squares.
