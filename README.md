@@ -39,6 +39,10 @@ java MagicSquare
 - 2D arrays  
 - algorithmic thinking  
 
+## References
+
+The algorithm is based on the classical Siamese method for constructing odd-order magic squares.
+
 ## Note
 
 This project was written as part of my Java practice while learning arrays and basic algorithms.
